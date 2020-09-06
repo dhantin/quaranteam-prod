@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.5a823fd7.chunk.css",
-    "main.js": "/static/js/main.1ce68c29.chunk.js",
+    "main.js": "/static/js/main.b531fa60.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3cc42834.js",
     "static/css/2.a798294a.chunk.css": "/static/css/2.a798294a.chunk.css",
     "static/js/2.cfbf1f07.chunk.js": "/static/js/2.cfbf1f07.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.e6c449937a3b57c5c4e3f5a9975ef987.js": "/precache-manifest.e6c449937a3b57c5c4e3f5a9975ef987.js",
+    "precache-manifest.76fdbffd0411fd4c2a7ce3978485490a.js": "/precache-manifest.76fdbffd0411fd4c2a7ce3978485490a.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.cfbf1f07.chunk.js.LICENSE.txt": "/static/js/2.cfbf1f07.chunk.js.LICENSE.txt",
     "static/media/layout.scss": "/static/media/Jost-VariableFont_wght.ebd3b92b.ttf",
@@ -18,6 +18,6 @@
     "static/css/2.a798294a.chunk.css",
     "static/js/2.cfbf1f07.chunk.js",
     "static/css/main.5a823fd7.chunk.css",
-    "static/js/main.1ce68c29.chunk.js"
+    "static/js/main.b531fa60.chunk.js"
   ]
 }
